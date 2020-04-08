@@ -3,7 +3,7 @@ Making Cell-Free Massive MIMO Competitive With MMSE Processing and Centralized I
 
 This is a code package is related to the follow scientific article:
 
-Emil Björnson and Luca Sanguinetti, “[Making Cell-Free Massive MIMO Competitive With MMSE Processing and Centralized Implementation](https://arxiv.org/abs/1903.10611),” IEEE Transactions on Wireless Communications, To appear.
+Emil Björnson and Luca Sanguinetti, “[Making Cell-Free Massive MIMO Competitive With MMSE Processing and Centralized Implementation](https://arxiv.org/abs/1903.10611),” IEEE Transactions on Wireless Communications, vol. 19, no. 1, pp. 77-90, January 2020.
 
 The package contains a simulation environment, based on Matlab, that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
